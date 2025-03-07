@@ -1,0 +1,7 @@
+#Entrada
+a=int(input())
+b=int(input())
+#Caja negra
+suma=a+b
+#Salida
+print(f'SOMA = {suma}')
