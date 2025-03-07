@@ -1,0 +1,4 @@
+import math
+radio = float(input())
+radio = math.pi*radio**2
+print(radio)
